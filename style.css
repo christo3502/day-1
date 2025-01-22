@@ -1,0 +1,15 @@
+h4{
+    color: brown;
+    border: 2px solid red;
+}
+
+.trial{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+ .box{
+    border: 2px solid red;
+    margin: 2% 40%;
+    padding: 2%;
+ }
+
